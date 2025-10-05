@@ -1,0 +1,25 @@
+# Ignore temporary and backup files
+*.log
+*.bak
+*.swp
+*.tmp
+*.old
+*.~*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled or cache files
+__pycache__/
+*.class
+*.o
+*.out
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore any temp folders
+temp/
